@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![github-readme2](https://user-images.githubusercontent.com/103681129/185771062-3493bc33-4bef-465b-a237-ce1e4bc61b70.gif) 
+
 
 <!--
 **imogawa/imogawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
